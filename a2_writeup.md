@@ -12,9 +12,10 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
-
+It was difficult to create the if statement for when they enter (%). Finding a way to sort through the source and still ending the while loop took many attempts. Finding out how to add onto the result string was also a challenege since I have never had to add to an empty one and turn it into a string before.
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
+This match function will be helpful to create the larger program because it seperates out the keywords from the question and then the keywords we have found can be run through the movie database and paired with the movies that include that keyword.
 
 
